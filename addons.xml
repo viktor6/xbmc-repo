@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="repository.search.db"
 		name="XBMC.ru search db"
 		version="1.1.33"
@@ -20,3 +21,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+</addons>
